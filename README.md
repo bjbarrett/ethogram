@@ -1,5 +1,4 @@
-# ethogram
-#ETHOGRAM v1.0 
+# ETHOGRAM v1.0 
 
 
 Thanks for trying out ETHOGRAM v1.0. Here are instructions to get it running on an android tablet.
